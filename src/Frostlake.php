@@ -24,7 +24,7 @@ declare(strict_types=1);
 
 namespace Frostlake;
 
-const VERSION = '0.1.0';
+const VERSION = '0.2.0';
 
 final class FrostlakeException extends \RuntimeException
 {
