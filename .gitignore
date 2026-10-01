@@ -3,3 +3,4 @@ composer.lock
 db-engine.log
 .idea
 composer.phar
+results/
